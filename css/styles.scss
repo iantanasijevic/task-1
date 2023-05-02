@@ -25,6 +25,7 @@ button {
 }
 
 .ag__header__cta {
+    background: $ag-blue;
     display: inline-flex;
     align-items: center;
     gap: 8px;
@@ -34,7 +35,7 @@ button {
     }
 }
 
-.ag__header__cta__lable {
+.ag__header__cta__label {
     color: $ag-white;
 }
 

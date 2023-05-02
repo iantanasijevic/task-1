@@ -12,6 +12,7 @@ button {
 }
 
 .ag__header__cta {
+  background: #194278;
   display: inline-flex;
   align-items: center;
   gap: 8px;
@@ -20,7 +21,7 @@ button {
   color: #ffffff;
 }
 
-.ag__header__cta__lable {
+.ag__header__cta__label {
   color: #ffffff;
 }
 
